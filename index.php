@@ -22,7 +22,7 @@ function menu()
 {
   $menu="
     <ul class='sidebar-menu'>
-        <li class='sub-menu active'> <a class='' href='index.php?contenido=0'> <i class='icon-home'></i> <span>STUFFF</span> </a> </li>
+        <li class='sub-menu active'> <a class='' href='index.php?contenido=0'> <i class='icon-home'></i> <span>Inicio</span> </a> </li>
         <li class='sub-menu'> <a href='javascript:;' class=''> <i class='icon-truck'></i> <span>Vehiculos</span> <span class='arrow'></span> </a>
           <ul class='sub'>
             <li><a class='' href=''> <i class='icon-plus'></i> <span>Crear Vehiculo</span></a></li>
